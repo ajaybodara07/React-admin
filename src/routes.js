@@ -30,6 +30,7 @@ export const Routes = {
     Accordions: { path: "/components/accordions" },
     Alerts: { path: "/components/alerts" },
     Badges: { path: "/components/badges" },
+    BadgesMains: { path: "/components/badgemains" },
     Widgets: { path: "/widgets" },
     Breadcrumbs: { path: "/components/breadcrumbs" },
     Buttons: { path: "/components/buttons" },
